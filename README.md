@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dex2t
+- 👋 Hi, I’m @root
 - 👀 I’m interested in Computers, Python, Linux, Malware and etc.
 - 🌱 I’m currently learning Python and HTML5
 - 💞️ I’m looking to collaborate on 
